@@ -164,7 +164,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bab7c980a4b159b4c961a78a15d6050d, type: 2}
   - {fileID: 11400000, guid: a02938958a8cae74b878469fa3b34b3e, type: 2}
   - {fileID: 11400000, guid: 94766332f024c2b4d8ccdde50fb5a329, type: 2}
-  - {fileID: 11400000, guid: 068224534ce7dfa4db2eeefbcedb768b, type: 2}
   obstacles:
   - {fileID: 11400000, guid: 95bf97a920bcb5847beb7388f97d6fcd, type: 2}
   - {fileID: 11400000, guid: 935de41be0f4d144e8c8ee255d97fe34, type: 2}

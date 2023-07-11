@@ -1613,7 +1613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelDatabase: {fileID: 11400000, guid: 61ba76f7b5a0da94fbf10d10aa7fbb86, type: 2}
   gameConfigurations: {fileID: 11400000, guid: 3a4a5c34c64060e44836f534d47c170c, type: 2}
-  levelToLoad: 10
+  levelToLoad: 100
 --- !u!114 &1060784199
 MonoBehaviour:
   m_ObjectHideFlags: 0
