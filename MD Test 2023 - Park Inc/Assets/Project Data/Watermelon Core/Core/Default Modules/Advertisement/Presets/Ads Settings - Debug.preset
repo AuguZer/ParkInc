@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ads Settings - Debug
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 15ddb41bf72d53a48a6bdc593d706f94,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bannerType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: interstitialType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: rewardedVideoType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.androidBannerID
+    value: ca-app-pub-3940256099942544/6300978111
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.iOSBannerID
+    value: ca-app-pub-3940256099942544/2934735716
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.androidInterstitialID
+    value: ca-app-pub-3940256099942544/1033173712
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.iOSInterstitialID
+    value: ca-app-pub-3940256099942544/4411468910
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.androidRewardedVideoID
+    value: ca-app-pub-3940256099942544/5224354917
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.iOSRewardedVideoID
+    value: ca-app-pub-3940256099942544/1712485313
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.bannerType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.bannerPosition
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.androidAppId
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: adMobContainer.iosAppId
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.androidAppID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.iOSAppID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.androidBannerID
+    value: banner
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.iOSBannerID
+    value: banner
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.androidInterstitialID
+    value: video
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.iOSInterstitialID
+    value: video
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.androidRewardedVideoID
+    value: rewardedVideo
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.iOSRewardedVideoID
+    value: rewardedVideo
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: unityAdsContainer.bannerPosition
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ironSourceContainer.androidAppKey
+    value: 85460dcd
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ironSourceContainer.iOSAppKey
+    value: 8545d445
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ironSourceContainer.bannerPosition
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ironSourceContainer.bannerType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: dummyContainer.bannerPosition
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: testMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: systemLogs
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: insterstitialFirstDelay
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: interstitialShowingDelay
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isGDPREnabled
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isIDFAEnabled
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: trackingDescription
+    value: Your data will be used to deliver personalized ads to you.
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: privacyLink
+    value: https://mywebsite.com/privacy
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: termsOfUseLink
+    value: https://mywebsite.com/terms
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
