@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Car2
+  m_Name: Car3
   m_Shader: {fileID: -6465566751694194690, guid: d1fe6d73e13f792449eb6eaf66f64cdc, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -124,6 +124,6 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Light_Direction: {r: 0.5, g: 0.5, b: -0.5, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SwappableColor: {r: 0.1254902, g: 0.6392157, b: 0.61960787, a: 1}
+    - _SwappableColor: {r: 0.9372549, g: 0.35686275, b: 0.35686275, a: 1}
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
